@@ -1,5 +1,9 @@
 # Yandex Samokat API Tests
 
+🌎  [English](#english) |  🇷🇺  [Русский](#russian)
+
+## Russian
+
 ## Описание проекта
 
 Проект содержит автоматизированные API-тесты для учебного сервиса Яндекс Самокат.
@@ -38,3 +42,52 @@
 - API тестируется через **REST-запросы**
 - Используется **параметризация тестов**
 - Сформирован отчёт **Allure**
+
+## English
+
+## Project Description
+
+This project contains **automated API tests for the educational service Yandex Samokat**.
+Testing is implemented using **RestAssured** and **JUnit 4**, with test results generated in **Allure Report**.
+Before automation, the service endpoints were **manually tested in Postman**.
+
+## Tested Functionality
+
+### Courier Creation
+
+* successful courier creation
+* error when creating a duplicate courier
+* validation of required fields
+
+### Courier Login
+
+* successful authorization
+* errors when incorrect data is provided or required fields are missing
+* receiving **id** after successful login
+
+### Order Creation
+
+* order with color **BLACK** or **GREY**
+* order with **both colors**
+* order **without specifying a color**
+* verification that the response contains **track**
+* use of **test parameterization**
+
+### Order List
+
+* verification that the response contains a **list of orders**
+
+## Technologies
+
+* Java 11
+* Maven
+* JUnit 4
+* RestAssured
+* Allure Report
+
+## Features
+
+* API testing via **REST requests**
+* use of **test parameterization**
+* **Allure report** generation
+
