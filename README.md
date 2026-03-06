@@ -1,5 +1,5 @@
 # Practicum_projects
-🌎 [English](#english) | 🇷🇺 [Русский](#russian)
+🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
 ## Russian
 
