@@ -1,4 +1,4 @@
-# Тестирование сервиса Яндекс.Маршруты
+# Testing of Yandex Routes Service
 
 🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
