@@ -1,4 +1,4 @@
-# Регрессионное тестирование сервиса Mesto
+# Mesto Service Regression Testing
 
 🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
