@@ -1,4 +1,4 @@
-# Тестирование API сервиса Яндекс.Прилавок | Yandex Lavka API Testing
+# Yandex Lavka API Testing
 
 🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
