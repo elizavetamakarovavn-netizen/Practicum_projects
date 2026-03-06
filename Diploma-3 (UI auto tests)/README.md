@@ -45,13 +45,29 @@
 
 ## Запуск тестов
 
-**Запуск всех тестов:** mvn clean test
+**Запуск всех тестов:** 
 
-**Запуск тестов в Яндекс.Браузере:** mvn -Dtest=<имя теста> -Dbrowser=yandex test
+```bash
+mvn clean test
+```
 
-**Запуск тестов в Google Chrome:** mvn -Dtest=<имя теста> -Dbrowser=chrome test
+**Запуск тестов в Яндекс.Браузере:** 
 
-**Allure-отчет:** allure serve target/allure-results
+```bash
+mvn -Dtest=<test_name> -Dbrowser=yandex test
+```
+
+**Запуск тестов в Google Chrome:** 
+
+```bash
+mvn -Dtest=<test_name> -Dbrowser=chrome test
+```
+
+**Allure-отчет:** 
+
+```bash
+allure serve target/allure-results
+```
 
 ## English
 
@@ -96,7 +112,7 @@ The tests are implemented using **Selenium WebDriver** and **JUnit 4**, with **A
 
 ## Running Tests
 
-Run all tests:
+**Run all tests:**
 
 ```bash
 mvn clean test
