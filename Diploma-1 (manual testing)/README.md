@@ -37,8 +37,6 @@
 
 ## English
 
-# Manual Testing – Web & Mobile Application
-
 ## Project Description
 
 This project is dedicated to **manual testing of a web and mobile application**.
