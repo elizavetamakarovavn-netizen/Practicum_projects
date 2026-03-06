@@ -1,4 +1,4 @@
-# Тест-анализ формы сервиса Яндекс.Маршруты
+# Test Analysis of Yandex Routes Form
 
 🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
