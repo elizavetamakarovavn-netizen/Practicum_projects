@@ -1,4 +1,4 @@
-# Регрессионное тестирование мобильного приложения Яндекс Метро | Yandex Metro Mobile App Regression Testing
+# Yandex Metro Mobile App Regression Testing
 
 🌎  [English](#english) |  🇷🇺  [Русский](#russian)
 
