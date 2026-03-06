@@ -30,8 +30,17 @@
 - Каждый тест закрывает браузер после выполнения (driver.quit())
 
 ## Запуск тестов
-- Запуск тестов в Firefox через терминал: mvn -Dtest=<имя теста> -Dbrowser=firefox test
-- Запуск тестов в Chrome через терминал: mvn -Dtest=<имя теста> -Dbrowser=chrome test
+
+Запуск тестов в **Firefox:** 
+
+```bash
+mvn -Dtest=<test_name> -Dbrowser=firefox test
+```
+Запуск тестов в **Chrome:** 
+
+```bash
+mvn -Dtest=<test_name> -Dbrowser=chrome test
+```
 
 ## English
 
